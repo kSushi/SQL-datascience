@@ -1,0 +1,9 @@
+MySQL for Excel
+
+Download and install the following
+
+1.Visual Studio Tools runtime:
+https://www.microsoft.com/en-us/download/details.aspx?id=54251
+
+2.MySQL for Excel addon:
+ https://dev.mysql.com/downloads/windows/excel/
